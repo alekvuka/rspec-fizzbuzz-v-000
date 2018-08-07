@@ -9,8 +9,8 @@ def fizzbuzz(number)
     return "buzz"
   elseif number % five == 0 & number % three ==0
     return "fizzbuzz"
-  else 
-    return nill 
-  end 
+  else
+    return nill
+  end
 
   
