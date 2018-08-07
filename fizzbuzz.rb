@@ -3,13 +3,13 @@
 def fizzbuzz(number)
   five = 5
   three = 3
-  if number % five == 0
-    return "Buzz"
-  elseif number % three == 0
-    return "Fizz"
-  elseif number % five == 0 & number % three ==0
-    return "FizzBuzz"
-  else
-    return nill
-  end
-end
+#  if number % five == 0
+#    return "Buzz"
+#  elseif number % three == 0
+#    return "Fizz"
+#  elseif number % five == 0 & number % three ==0
+#    return "FizzBuzz"
+#  else
+#    return nill
+#  end
+#end
